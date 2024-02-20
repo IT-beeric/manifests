@@ -1,3 +1,5 @@
+This fork is intended to fix the "revision" issue with incorrect SHA1 value. See: https://github.com/LubanCat/manifests/issues/4
+
 # 主机构建环境搭建
 
 ## Ubuntu LTS
